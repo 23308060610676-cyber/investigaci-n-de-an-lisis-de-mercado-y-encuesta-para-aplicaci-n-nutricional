@@ -126,10 +126,40 @@ Lifesum:
 <img width="922" height="883" alt="image" src="https://github.com/user-attachments/assets/ccd48838-f4a7-4b8f-a979-2436972aa598" />
 
 
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/d900c589-f970-4870-9255-7219702317c9" />
 
 
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/af540e26-aec7-44a9-ab28-6f16c1ddf456" />
 
 
+<img width="922" height="949" alt="image" src="https://github.com/user-attachments/assets/aad44602-3283-4954-b187-dddc32b2e273" />
+
+
+<img width="922" height="949" alt="image" src="https://github.com/user-attachments/assets/8b21111d-f3d3-4b12-a93c-de2349791bb9" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/d83c9572-ef11-48ec-8424-695091438559" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/21aacfdb-cc96-4375-bcf4-6026f0b0a7a1" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/0ed797dd-e8e6-4f9f-a8a3-db1c94e6e80c" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/b371e416-ad2b-49f0-ab52-3acb93414669" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/13583543-5e2e-4e77-ab9f-acc960c204c0" />
+
+
+<img width="922" height="949" alt="image" src="https://github.com/user-attachments/assets/bd976ad8-aee1-4c21-9609-49a15eb890f0" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/7d470647-501b-4230-b7a0-fe8f9e61de5d" />
+
+
+<img width="922" height="789" alt="image" src="https://github.com/user-attachments/assets/a3784d51-0794-4b03-a184-ea64eefbfddd" />
 
 
 
