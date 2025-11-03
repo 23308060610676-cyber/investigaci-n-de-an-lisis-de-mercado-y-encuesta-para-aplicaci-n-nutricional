@@ -1,5 +1,6 @@
 Aplicación Web de Nutrición (nutriAPI)
- 
+ <img width="739" height="739" alt="image" src="https://github.com/user-attachments/assets/951863ff-1c51-4454-9e4a-e6e242093a5c" />
+
 
 
 Integrantes:
