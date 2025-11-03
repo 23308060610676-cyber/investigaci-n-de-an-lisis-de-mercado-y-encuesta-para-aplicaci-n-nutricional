@@ -92,7 +92,7 @@ Características innovadoras:
 
 | ---- | ---- | ---- | ---- |
 
-| MyFitnessPal |  	
+MyFitnessPal
 
 <img width="900" height="564" alt="image" src="https://github.com/user-attachments/assets/c3acb42c-6649-4f58-a44d-0c7f7b9ce2cd" />
 
@@ -100,7 +100,6 @@ Características innovadoras:
 
 
 
- MyFitnessPal: 
 
 
 
@@ -113,6 +112,8 @@ Características innovadoras:
 
 
  Noom: 
+ <img width="900" height="536" alt="image" src="https://github.com/user-attachments/assets/d3ccd4ea-1f5e-424d-900c-f8783d60f9af" />
+
 Lifesum:
 
 
