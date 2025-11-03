@@ -92,3 +92,18 @@ Características innovadoras:
 | ---- | ---- | ---- | ---- |
 
 | MyFitnessPal |  	
+
+
+
+
+
+
+ MyFitnessPal: 
+
+
+
+
+
+ Noom: 
+Lifesum:
+
