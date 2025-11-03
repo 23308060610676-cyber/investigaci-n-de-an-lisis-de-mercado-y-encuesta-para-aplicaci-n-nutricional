@@ -94,6 +94,7 @@ Características innovadoras:
 
 | MyFitnessPal |  	
 
+<img width="900" height="564" alt="image" src="https://github.com/user-attachments/assets/c3acb42c-6649-4f58-a44d-0c7f7b9ce2cd" />
 
 
 
