@@ -117,6 +117,15 @@ MyFitnessPal
 Lifesum:
 
 
+<img width="741" height="936" alt="image" src="https://github.com/user-attachments/assets/0ca34b60-4530-40d8-a150-5b998afb5c2e" />
+
+
+<img width="922" height="889" alt="image" src="https://github.com/user-attachments/assets/2a55536b-165e-49a2-8a36-ffa0dc868ed6" />
+
+
+<img width="922" height="883" alt="image" src="https://github.com/user-attachments/assets/ccd48838-f4a7-4b8f-a979-2436972aa598" />
+
+
 
 
 
