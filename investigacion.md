@@ -104,6 +104,29 @@ Características innovadoras:
 
 
 
+
+
+
+
+
+
  Noom: 
 Lifesum:
+
+
+
+
+
+
+
+
+
+Aprendizajes.
+Durante la investigación se aprendió y comprendido el funcionamiento de la API FoodData Central para tener un mejor manejo de la misma durante el desarrollo de la aplicación web ya mencionada que se realizara , también se han tomado en cuenta los fallos de las otras aplicaciones parecidas y tomando como ejemplo lo mismo se realizaran mejoras y se tomaran en cuenta las opiniones de las personas que se encuestaron durante la aplicación de preguntas detallantes del tema.
+
+Oportunidades identificadas.
+También tomando en cuenta la misma investigación se obtuvieron oportunidades donde personalmente me gustaría añadir una asistente virtual simple utilizando IA(inteligencia artificial) , también se podría añadir un scanner en la cámara para escanear alimentos y tener toda la información sobre el mismo , se podrían poner retos con logros desbloqueables tipo juegos pero sin ser un juego.
+Recomendaciones.
+Personalmente recomiendo añadir optimización del sistema, tener un buen diseño de interface moderna y accesible , y sobre todo tener un apartado de recomendaciones de los usuarios. 
+
 
